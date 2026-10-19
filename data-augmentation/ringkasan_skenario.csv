@@ -1,0 +1,21 @@
+skenario,kondisi,rata_waktu_menit,kenaikan_persen
+S00,Normal,13.49,0.0
+S01,Lokal ringan,13.68,1.43
+S02,Lokal sedang,13.86,2.8
+S03,Lokal berat,14.04,4.13
+S04,Kolektor ringan,13.77,2.07
+S05,Kolektor sedang,13.93,3.26
+S06,Kolektor berat,14.13,4.79
+S07,Arteri ringan,14.85,10.14
+S08,Arteri sedang,16.1,19.35
+S09,Arteri berat,17.22,27.64
+S10,Tol ringan,13.53,0.32
+S11,Tol sedang,13.56,0.52
+S12,Tol berat,13.57,0.63
+S13,Campuran ringan,15.88,17.75
+S14,Campuran sedang,17.2,27.49
+S15,Campuran berat,19.18,42.23
+S16,Lokal dan kolektor,14.31,6.1
+S17,Kolektor dan arteri,17.32,28.41
+S18,Arteri dan tol,16.64,23.34
+S19,Gangguan menyeluruh,19.17,42.16
