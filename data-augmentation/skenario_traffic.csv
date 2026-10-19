@@ -1,0 +1,21 @@
+skenario,kondisi,lokal_pct,kolektor_pct,arteri_pct,tol_pct
+S00,Normal,0,0,0,0
+S01,Lokal ringan,15,0,0,0
+S02,Lokal sedang,30,0,0,0
+S03,Lokal berat,45,0,0,0
+S04,Kolektor ringan,0,15,0,0
+S05,Kolektor sedang,0,25,0,0
+S06,Kolektor berat,0,40,0,0
+S07,Arteri ringan,0,0,15,0
+S08,Arteri sedang,0,0,30,0
+S09,Arteri berat,0,0,45,0
+S10,Tol ringan,0,0,0,10
+S11,Tol sedang,0,0,0,20
+S12,Tol berat,0,0,0,35
+S13,Campuran ringan,10,15,20,10
+S14,Campuran sedang,20,25,30,15
+S15,Campuran berat,35,40,45,25
+S16,Lokal dan kolektor,30,25,0,0
+S17,Kolektor dan arteri,0,30,35,0
+S18,Arteri dan tol,0,0,35,20
+S19,Gangguan menyeluruh,40,35,45,30
