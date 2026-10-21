@@ -10,10 +10,9 @@ Proyek ini menyusun rute distribusi obat dari **Dinas Kesehatan Kota Surabaya** 
 
 | Anggota | Tanggung jawab |
 |---|---|
-| **Vani** | Pengumpulan data lokasi (*fetch data*), pengolahan jaringan jalan dan Dijkstra, serta **Data Augmentation** |
-| **Anggota 2** | **Clustering** (Agglomerative vs K-Medoids), pengembangan **Q-Learning**, tuning, dan evaluasi terhadap Nearest Neighbor |
+| **Jovanka** | Pengumpulan data lokasi (*fetch data*), pengolahan jaringan jalan dan Dijkstra, serta **Data Augmentation** |
+| **Amellia Harmaimun** | **Clustering** (Agglomerative vs K-Medoids), pengembangan **Q-Learning**, tuning, dan evaluasi terhadap Nearest Neighbor |
 
-> Ganti `Anggota 2` dengan nama anggota yang mengerjakan clustering dan RL sebelum memublikasikan repository.
 
 ## Tujuan penelitian
 
@@ -63,7 +62,7 @@ vs K-Medoids             |
  Dinkes -> anggota cluster -> Dinkes
 ```
 
-**Catatan:** pengelompokan menggunakan matriks **jarak**, sedangkan optimasi rute dan evaluasinya menggunakan matriks **waktu perjalanan**. Dinkes merupakan depot, tidak ikut menjadi anggota cluster.
+**Catatan:** pengelompokan menggunakan matriks **jarak**, sedangkan optimasi rute dan evaluasinya menggunakan matriks **waktu perjalanan**. Dinkes merupakan depot (titik awal), tidak ikut menjadi anggota cluster.
 
 ## Metodologi
 
